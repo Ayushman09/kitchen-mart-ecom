@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="#" target="_blank">
-      <img src="https://cdn-icons.flaticon.com/png/512/2702/premium/2702493.png?token=exp=1646806917~hmac=32b0fe078fa911797e3cb58585d161e9" alt="KitchenMart" height="72">
+      <img src="https://cdn-icons.flaticon.com/png/512/2702/premium/2702493.png?token=exp=1646806917~hmac=32b0fe078fa911797e3cb58585d161e9" alt="KitchenMart" height="144">
     </a>
   </p>
   <p align="center">
@@ -11,10 +11,13 @@
 
 # KitchenMart - ECommerce [Django] Project
 
-This repository is a boilerplate Django project for quickly getting started.
+<i>Grocery? -- </i> <b>Yes Please!</b><br>
+<i>Utencils? -- </i> <b>Oh yes!</b><br>
+<i>Appliances? -- </i> <b>Why not!?</b><br>
+<b><u>The One Place for all your Kitchen Needs.</b></u>
 
 <p align="center">
-  <a href="https://ayush-dev-blogs.herokuapp.com/"><img src="https://pbs.twimg.com/profile_images/1433742729612124164/FYMcmvrN_400x400.jpg" width="290"></a>
+  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymDXiR_hTkjmKhospVKnSrwkvzyNDdHwXpw&usqp=CAU" width="290"></a>
 </p>
 
 ## Getting started
