@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="#" target="_blank">
-      <img src="https://lordicon.com/3f84b615-1f8b-4f9d-bf69-3e27e1770e56" alt="KitchenMart" height="72">
+      <img src="https://cdn-icons.flaticon.com/png/512/2702/premium/2702493.png?token=exp=1646806917~hmac=32b0fe078fa911797e3cb58585d161e9" alt="KitchenMart" height="72">
     </a>
   </p>
   <p align="center">
