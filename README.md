@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="#" target="_blank">
-      <img src="blob:https://lordicon.com/3f84b615-1f8b-4f9d-bf69-3e27e1770e56" alt="KitchenMart" height="72">
+      <img src="https://lordicon.com/3f84b615-1f8b-4f9d-bf69-3e27e1770e56" alt="KitchenMart" height="72">
     </a>
   </p>
   <p align="center">
